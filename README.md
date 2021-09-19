@@ -18,3 +18,6 @@ You will also see any lint errors in the console.
 
 Figma design \
 Open [https://www.figma.com/file/rZZAg6xPg74EhmXUIDdJAE/Frontend?node-id=2%3A2](Design) to view it in the browser.
+
+Deployment \
+Open [https://frontend-test-react.web.app/] to view it in the browser.
