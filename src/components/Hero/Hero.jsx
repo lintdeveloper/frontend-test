@@ -1,5 +1,4 @@
 import classes from "./Hero.module.css";
-
 import hero_img from "../../assets/media/hero-image.png";
 
 function Hero() {
